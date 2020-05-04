@@ -1,7 +1,6 @@
 <h2>Tkinter-GUI-Applications</h2>
-Collections Of GUI Applications created using Tkinter Module in python
 
-<h2> 1. GUI Application - File and Message Encoder Decoder</h2>
+<h2>GUI Application - File and Message Encoder Decoder</h2>
 <ul>
   <li> A Encoder and Decoder GUI based Application that encodes and decode a message and a File.</li> 
   <li> Just Type in the Message or select File, and click Encrypt to Encrypt the File or the Message.</li>
